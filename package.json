@@ -1,0 +1,14 @@
+{
+    "name": "vrt",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "devDependencies": {
+        "nightwatch": "^1.5.1",
+        "nightwatch-api": "^3.0.1"
+    },
+    "dependencies": {
+        "chromedriver": "^84.0.1"
+    }
+}
